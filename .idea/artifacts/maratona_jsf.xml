@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="maratona_jsf:war exploded">
-    <output-path>$PROJECT_DIR$/out/artifacts/maratona_jsf_war_exploded</output-path>
+  <artifact type="exploded-war" name="maratona_jsf">
+    <output-path>$PROJECT_DIR$/out/artifacts/maratona_jsf.war</output-path>
     <root id="root">
       <element id="javaee-facet-resources" facet="maratona_jsf/web/Web" />
       <element id="directory" name="WEB-INF">
